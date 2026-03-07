@@ -1,0 +1,24 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: excali;
+    font-size: 12pt;
+    background-image: url('/src/assets/decor.png');
+    background-size: 7vw 24vh;
+    overflow-y: auto;
+}
+
+@font-face {
+    font-family: excali;
+    src: url('/src/assets/Excalifont-Regular.woff2');
+}
+
+#app {
+    min-height: 100vh;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    box-shadow: 15px 0 15px -4px rgba(0, 0, 0, 0.30),
+            -15px 0 15px -4px rgba(0, 0, 0, 0.30);
+}
