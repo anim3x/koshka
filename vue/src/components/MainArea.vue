@@ -1,14 +1,10 @@
 <template>
-  <main>
-    <h1>Hello World</h1>
+  <main
+    class="
+      h-[82%]
+      bg-pink-200">
+    <h1 class="text-3xl font-bold underline">
+      Привет World
+    </h1>
   </main>
 </template>
-
-<style>
-    main {
-        display: flex;
-        background-color: #fff;
-        min-height: 82vh;
-        overflow: hidden;
-    }
-</style>

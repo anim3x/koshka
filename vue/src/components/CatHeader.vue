@@ -1,26 +1,16 @@
 <template>
-  <header>
-    <a  className="git-link"
-        href="http://koshka.msk.ru:8080/"
-        target="_blank">
-    <img src='/src/assets/logo.png' class="logo" />
+  <header
+    class="
+        h-[12%]
+        bg-white
+        border-b-3 border-[#6dbbe9] border-dotted">
+    <a
+      className="git-link"
+      href="http://koshka.msk.ru:8080/">
+      <img
+        src="/src/assets/logo.png"
+        class="
+            w-45 h-25">
     </a>
-
   </header>
 </template>
-
-<style>
-    .logo {
-        width: 7vw;
-        height: 10vh;
-        margin: 0.5rem 0 0 0.5rem;
-    }
-
-    header {
-        border-bottom-color: #6dbbe9;
-        border-bottom-style: dotted;
-        border-bottom-width: 0.2rem;
-        height: 12vh;
-        background-color: #fff;
-    }
-</style>
