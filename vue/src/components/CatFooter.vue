@@ -18,7 +18,7 @@
       text-white text-xl
       ml-2
     "> 
-      koshka v1.0
+      koshka v1.1
     </span>
   </footer>
 </template>

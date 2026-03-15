@@ -10,7 +10,7 @@
       <img
         src="/src/assets/logo.png"
         class="
-            w-45 h-25">
+            w-40 h-25">
     </a>
   </header>
 </template>
