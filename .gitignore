@@ -1,0 +1,7 @@
+.scripts.sh
+ssl/
+backend/backend/settings.py
+backend/backend/__pycache__
+backend/koshka/__pycache__
+backend/koshka/lib/__pycache__
+backend/koshka/migrations/__pycache__
